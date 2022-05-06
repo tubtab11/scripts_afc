@@ -119,5 +119,3 @@ item=`nodehealth.sh|grep "Node Type" | nawk '{print $5}'|cut -c 2-4`
             exit 1
         fi
 
-##### check retuen status kill sesion ######
-log = /afc/ERGnrpe/logs
