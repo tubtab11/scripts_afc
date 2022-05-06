@@ -45,9 +45,9 @@ shutdown_status()
         exit 1
     fi
 }
-# ==========================
+# ==========================+
 # M A I N
-# ==========================
+# ==========================+
 
 # Check excecute with arguement.
 while getopts n:m: flag
